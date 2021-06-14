@@ -1,0 +1,3 @@
+Course: 20 credits
+Year: 120 credits
+Diploma: 300 credits
